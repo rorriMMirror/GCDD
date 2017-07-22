@@ -1,0 +1,56 @@
+
+  .divStyle{
+    background:url(/Users/mirror/Desktop/GirlsCodingDay/1.png)  no-repeat center top;
+    width:1280px;
+    height:950px;
+    padding-top: 5px;
+  	background-attachment: relative;
+  	background-position: center center;
+  	min-height: 700px;
+  	width: 100%;
+
+      -webkit-background-size: 100%;
+      -moz-background-size: 100%;
+      -o-background-size: 100%;
+      background-size: 100%;
+
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+.h1style{
+   color:white;
+  width: 66.66666667%;
+    text-align: center;
+    padding-right: 15px;
+padding-left: 15px;
+margin-top: 150px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.m1style{
+   margin-top: 350px;
+   margin-left: 100px;
+   letter-spacing: 150px
+  }
+
+
+ .div1style{
+    margin-top: 80px;
+    font-size:30px;
+    height:80px;
+    line-height:80px:
+  }
+
+  .div2s{
+     margin-top: 980px;
+
+   }
+   .div3s{
+      margin-top: 80px;
+      margin-left: 380px;
+
+    }
